@@ -50,7 +50,7 @@ Evaluated on 5 RTI queries using a child, non-smoker, underweight, asthmatic pro
 
 A Gradio interface lets users set their profile and search interactively:
 
-![RTI Search Engine UI](demo.png)
+![RTI Search Engine UI](RTI_UI.png)
 
 
 ---
